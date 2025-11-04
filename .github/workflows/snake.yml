@@ -1,9 +1,8 @@
-name: Generate Snake
+name: generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every day at midnight
   push:
     branches:
       - main
@@ -13,19 +12,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Habib-Medhat
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push snake files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake animation to 'output' branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
