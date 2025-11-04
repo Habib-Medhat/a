@@ -60,7 +60,7 @@
 
 ### 🐍 Contribution Graph
 
-![Snake Animation](https://github.com/Habib-Medhat/Habib-Medhat/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/Habib-Medhat/a/blob/output/snake-dark.svg?raw=true)
 
 ---
 
