@@ -2,7 +2,7 @@
 <h2 align="center">Aspiring Data Engineer | Data Science Graduate</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+%26+Analytics;Building+Pipelines+%7C+ETL+%7C+BI;Python+%7C+SQL+%7C+Cloud+%26+ML;Follow+to+see+my+projects!&font=Bold%20Code&center=true&color=30F050&pause=2000">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,aws,azure,powerbi,pandas,numpy,jupyter,vscode,sqlserver,excel,sklearn,tensorflow,airflow,spark,docker&perline=7" height="110"/>
 </p>
 
 <p align="center">
