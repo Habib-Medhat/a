@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+  <a href="https://drive.google.com">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" height="32"/>
   </a>
 </p>
