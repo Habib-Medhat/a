@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Habib Medhat 👋</h1>
-<h2 align="center">Data Engineer (Graduating as Data Scientist)</h2>
+<h2 align="center">Data Engineer</h2>
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=Habib+Medhat">
